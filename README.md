@@ -1,2 +1,2 @@
 # Automic
-For test
+This is for the Automic interview presenation of my project.
